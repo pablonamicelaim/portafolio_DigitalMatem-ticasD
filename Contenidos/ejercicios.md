@@ -109,7 +109,7 @@ Conclusión: Apruebo.                         (q)
 
 > **Conclusión:** El argumento es **válido** ✅.
 
-###[⬅️ Volver a Unidad 1](../Unidad1.md)
+### [*⬅️ Volver a Unidad 1*](../Unidad1.md)
 
 <div align="center">
   <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
