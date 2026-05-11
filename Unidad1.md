@@ -19,7 +19,11 @@
 
 ---
 
-### 4. 🔍 *Reflexión Personal*
+### 4. [*Trabajos Unidad 1*](Contenidos/trabajosU1)
+
+---
+
+### 5. 🔍 *Reflexión Personal*
  
 <details>
 <summary><b>¿Qué fue lo más difícil de entender?</b></summary>
@@ -56,4 +60,13 @@ La lógica proposicional tiene aplicaciones directas en:
   
 </details>
 
-### 5. [Trabajos Unidad 1](Contenidos/trabajosU1)
+<div align="center">
+  <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
+</div>
+
+---
+
+<div align="center">
+  <sub>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables &nbsp;·&nbsp; Loja, Ecuador &nbsp;·&nbsp; 2026</sub>
+</div>
+
