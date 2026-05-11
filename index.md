@@ -31,11 +31,11 @@
 
 ---
 
-### > *Unidad 2*
+>### *Unidad 2*
 
 ---
 
-### > *Unidad 3*
+>### *Unidad 3*
 
 <div align="center">
   <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
