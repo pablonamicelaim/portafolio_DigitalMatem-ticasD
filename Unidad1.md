@@ -23,20 +23,25 @@
  
 <details>
 <summary><b>¿Qué fue lo más difícil de entender?</b></summary>
+
 <br>
 El concepto que más tiempo me tomó entender fue el **condicional lógico** ($p \to q$). Intuitivamente, me parece contradictorio que una implicación pueda ser verdadera cuando la premisa es falsa, independientemente del consecuente. ¿Cómo puede ser verdad "si llueve, me mojo" cuando simplemente no llueve?
  
 La clave para mí fue entenderlo no como una relación causal, sino como una **promesa**: la implicación solo se "rompe" si la premisa se cumple y la conclusión no. Si la premisa nunca ocurre, la "promesa" jamás fue puesta a prueba, por lo tanto sigue siendo válida. Una vez que mentalicé esa perspectiva, el condicional comenzó a tener sentido.
  
 </details>
+
 <details>
 <summary><b>¿Qué tema comprendí mejor?</b></summary>
+ 
 <br>
 Las **tablas de verdad** fueron el tema más claro, ya que permiten visualizar sistemáticamente todos los posibles casos. Una vez entendida la estructura, construirlas se vuelve mecánico y predecible.
  
 </details>
+
 <details>
 <summary><b>¿Cómo puedo aplicar la lógica en mi carrera?</b></summary>
+ 
 <br>
 La lógica proposicional tiene aplicaciones directas en:
  
@@ -45,6 +50,7 @@ La lógica proposicional tiene aplicaciones directas en:
 - **Diseño de sistemas:** modelar reglas de negocio y flujos de decisión.
 - **Ciberseguridad:** validación de condiciones de acceso y permisos.
 - **Inteligencia artificial:** sistemas expertos basados en reglas lógicas.
+  
 </details>
 
 ### 5. [Trabajos Unidad 1](Contenidos/trabajosU1)
