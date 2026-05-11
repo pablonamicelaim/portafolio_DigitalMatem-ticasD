@@ -62,7 +62,7 @@ La lógica proposicional tiene aplicaciones directas en:
 
 ---
 
-### [*⬅️ Volver al Índice*](../indice.md)
+### [🔙 Volver al Índice](../%C3%ADndice.md)
 
 
 <div align="center">
