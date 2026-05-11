@@ -1,13 +1,13 @@
 
-### 🏥 *Contexto:* Sistema de acceso a un hospital
+### 🏥 **Contexto:** Sistema de acceso a un hospital
 
-Un hospital tiene el siguiente sistema de seguridad:
+*Un hospital tiene el siguiente sistema de seguridad:*
 
 > *"Si el paciente tiene cita y presenta su cédula, entonces puede ingresar. Si no puede ingresar, entonces debe esperar en recepción."*
 
 ---
 
-**Paso 1 — Definir proposiciones:**
+***Paso 1 — Definir proposiciones:***
 
 | Símbolo | Proposición |
 |---------|-------------|
@@ -18,7 +18,7 @@ Un hospital tiene el siguiente sistema de seguridad:
 
 ---
 
-**Paso 2 — Expresión simbólica:**
+***Paso 2 — Expresión simbólica:***
 
 ```
 Regla 1: (c ∧ d) → i
@@ -27,7 +27,7 @@ Regla 2: ¬i → e
 
 ---
 
-**Paso 3 — Análisis con tabla de verdad (caso Regla 1):**
+***Paso 3 — Análisis con tabla de verdad (caso Regla 1):***
 
 | c | d | c ∧ d | (c ∧ d) → i (cuando i = V) |
 |---|---|-------|----------------------------|
@@ -38,7 +38,7 @@ Regla 2: ¬i → e
 
 ---
 
-**Paso 4 — Caso práctico:**
+***Paso 4 — Caso práctico:***
 
 - El paciente **tiene cita** (c = V) y **presenta su cédula** (d = V)
 - Por Regla 1: `(V ∧ V) → i` → `V → i` → `i = V`
@@ -50,12 +50,13 @@ Regla 2: ¬i → e
 
 ---
 
-**Paso 5 — Conclusión:**
+***Paso 5 — Conclusión:***
 
 > La lógica proposicional permite modelar reglas de sistemas reales. En este caso, el acceso al hospital se puede verificar automáticamente evaluando las proposiciones `c`, `d` e `i`. Esto es la base de los sistemas de control de acceso en software.
 
 ---
 
+### [*⬅️ Volver a Unidad 1*](../Unidad1.md)
 
 <div align="center">
   <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
