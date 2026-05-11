@@ -3,7 +3,7 @@
   <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" width="280" alt="Logo UNL"/>
 </p>
 
-# *Portafolio de Matemática Discreta* 
+# *Portafolio de Matemáticas Discretas* 
 >## *Por: Pablo Isaias Namicela Maldonado*
 ---
 
