@@ -1,5 +1,7 @@
 
-#### ✏️ Ejercicio 1 – Traducción de lenguaje natural a simbólico
+### ✏️ Ejercicio 1 – Traducción de lenguaje natural a simbólico
+
+---
 
 **Definiciones:**
 - `p` = "Llueve"
@@ -17,7 +19,9 @@
 
 ---
 
-#### ✏️ Ejercicio 2 – Construcción de tabla de verdad
+### ✏️ Ejercicio 2 – Construcción de tabla de verdad
+
+---
 
 **Proposición:** `p ∧ (q ∨ ¬p)`
 
@@ -39,7 +43,9 @@
 
 ---
 
-#### ✏️ Ejercicio 3 – Identificación: tautología, contradicción o contingencia
+### ✏️ Ejercicio 3 – Identificación: tautología, contradicción o contingencia
+
+---
 
 **Proposición:** `(p → q) ↔ (¬p ∨ q)`
 
@@ -61,7 +67,9 @@
 
 ---
 
-#### ✏️ Ejercicio 4 – Aplicación de leyes proposicionales
+### ✏️ Ejercicio 4 – Aplicación de leyes proposicionales
+
+---
 
 **Simplificar:** `¬(p ∧ q) ∨ q`
 
@@ -79,7 +87,9 @@
 
 ---
 
-#### ✏️ Ejercicio 5 – Validación de argumento
+### ✏️ Ejercicio 5 – Validación de argumento
+
+---
 
 **Argumento:**
 ```
@@ -98,3 +108,15 @@ Conclusión: Apruebo.                         (q)
 | 3 | `q` | Modus Ponens (1, 2) |
 
 > **Conclusión:** El argumento es **válido** ✅.
+
+###[⬅️ Volver a Unidad 1](../Unidad1.md)
+
+<div align="center">
+  <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
+</div>
+
+---
+
+<div align="center">
+  <sub>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables &nbsp;·&nbsp; Loja, Ecuador &nbsp;·&nbsp; 2026</sub>
+</div>
