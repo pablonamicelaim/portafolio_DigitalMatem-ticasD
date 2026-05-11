@@ -1,5 +1,5 @@
 
-#### 🏥 Contexto: Sistema de acceso a un hospital
+### 🏥 *Contexto:* Sistema de acceso a un hospital
 
 Un hospital tiene el siguiente sistema de seguridad:
 
