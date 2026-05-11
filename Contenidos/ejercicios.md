@@ -1,21 +1,5 @@
 
-### ✏️ Ejercicio 1 – Traducción de lenguaje natural a simbólico
-
----
-
-**Definiciones:**
-- `p` = "Llueve"
-- `q` = "Salgo"
-- `r` = "Estudio"
-- `s` = "Apruebo"
-
-| Enunciado en lenguaje natural | Forma simbólica |
-|-------------------------------|-----------------|
-| Si llueve, entonces no salgo | `p → ¬q` |
-| Estudio o trabajo | `r ∨ s` |
-| No es cierto que estoy cansado | `¬r` |
-| Salgo si y solo si termino mis tareas | `q ↔ s` |
-| Si llueve y no estudio, entonces no apruebo | `(p ∧ ¬r) → ¬s` |
+### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*](file:///D:/Users/DELL/Downloads/Ejercicio1_Traduccion.pdf)
 
 ---
 
