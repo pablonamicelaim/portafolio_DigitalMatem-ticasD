@@ -13,16 +13,6 @@
 
 ---
 
-## 📂 Contenidos trabajados en la Unidad:
-
-- Lógica proposicional
-- Conectores lógicos
-- Tablas de verdad
-- Leyes proposicionales
-- Reglas de inferencia
-
----
-
 ## 🧩 Contenido del Portafolio
 
 ---
