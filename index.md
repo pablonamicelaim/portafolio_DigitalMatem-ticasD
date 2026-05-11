@@ -75,12 +75,6 @@ Entender que un `if` en cualquier lenguaje es una implicación lógica `p → q`
 ---
 
 <div align="center">
-  <sub>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables &nbsp;·&nbsp; Loja, Ecuador &nbsp;·&nbsp; 2026</sub>
-</div>
-
----
-
-<div align="center">
   <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
 </div>
 
