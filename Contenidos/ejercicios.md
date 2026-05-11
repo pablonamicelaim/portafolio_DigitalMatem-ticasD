@@ -1,5 +1,5 @@
 
-### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*](https://drive.google.com/drive/u/4/folders/1nDDYAaGTYeX934ZsoUC9MnnE1iEz9CjT)
+### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*](https://drive.google.com/file/d/1dpfZ9lzJJNsS4vrdcvWrtxnDYC_gqRSj/view?usp=sharing)
 
 ---
 
