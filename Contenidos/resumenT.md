@@ -1,5 +1,7 @@
 
-#### 📌 Definición de Proposición
+### 📌 Definición de Proposición
+
+---
 
 Una *proposición* es un enunciado declarativo que puede ser *verdadero (V)* o *falso (F)*, pero no ambos al mismo tiempo.
 
@@ -8,7 +10,7 @@ Una *proposición* es un enunciado declarativo que puede ser *verdadero (V)* o *
 
 ---
 
-#### 📌 Tipos de Proposiciones
+### 📌 Tipos de Proposiciones
 
 | Tipo | Descripción | Ejemplo |
 |------|-------------|---------|
@@ -32,7 +34,7 @@ Una *proposición* es un enunciado declarativo que puede ser *verdadero (V)* o *
 
 ---
 
-#### 📌 Tablas de Verdad
+### 📌 Tablas de Verdad
 
 Una **tabla de verdad** muestra todos los posibles valores de una proposición compuesta.
 
@@ -47,7 +49,7 @@ Una **tabla de verdad** muestra todos los posibles valores de una proposición c
 
 ---
 
-#### 📌 Principales Leyes Lógicas
+### 📌 Principales Leyes Lógicas
 
 | Ley | Expresión |
 |-----|-----------|
@@ -63,7 +65,7 @@ Una **tabla de verdad** muestra todos los posibles valores de una proposición c
 
 ---
 
-#### 📌 Reglas de Inferencia
+### 📌 Reglas de Inferencia
 
 | Regla | Forma | Descripción |
 |-------|-------|-------------|
@@ -73,3 +75,18 @@ Una **tabla de verdad** muestra todos los posibles valores de una proposición c
 | Silogismo Disyuntivo | `p∨q, ¬p ∴ q` | Si una disyunción es V y una parte es F, la otra es V |
 | Adición | `p ∴ p∨q` | De p se puede concluir p∨q |
 | Simplificación | `p∧q ∴ p` | De una conjunción se puede extraer cualquier parte |
+
+---
+
+[⬅️ Volver a Unidad 1](Contenidos/Unidad1.md)
+
+<div align="center">
+  <sub>Pablo Namicela &nbsp;·&nbsp; Matemáticas Discretas &nbsp;·&nbsp; Universidad Nacional de Loja &nbsp;·&nbsp; 2026</sub>
+</div>
+
+---
+
+<div align="center">
+  <sub>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables &nbsp;·&nbsp; Loja, Ecuador &nbsp;·&nbsp; 2026</sub>
+</div>
+
