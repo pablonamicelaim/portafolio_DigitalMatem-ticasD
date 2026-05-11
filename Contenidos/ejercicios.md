@@ -3,95 +3,21 @@
 
 ---
 
-### ✏️ Ejercicio 2 – Construcción de tabla de verdad
+### ✏️ [*Ejercicio 2 – Construcción de tabla de verdad*](https://drive.google.com/file/d/1jywgkYwAhOV-7XJkKTmGwsMFr7LGZqsx/view?usp=sharing)
 
 ---
 
-**Proposición:** `p ∧ (q ∨ ¬p)`
-
-**Procedimiento paso a paso:**
-
-1. Identificar las variables: `p`, `q`
-2. Calcular `¬p`
-3. Calcular `q ∨ ¬p`
-4. Calcular `p ∧ (q ∨ ¬p)`
-
-| p | q | ¬p | q ∨ ¬p | p ∧ (q ∨ ¬p) |
-|---|---|----|--------|--------------|
-| V | V |  F |   V    |      V       |
-| V | F |  F |   F    |      F       |
-| F | V |  V |   V    |      F       |
-| F | F |  V |   V    |      F       |
-
-> **Conclusión:** Es una **contingencia** (hay valores V y F).
+### ✏️ [*Ejercicio 3 – Identificación: tautología, contradicción o contingencia*](https://drive.google.com/file/d/1j6K1KSO2U4IlPSVBshYRVzK-EHuktpTK/view?usp=sharing)
 
 ---
 
-### ✏️ Ejercicio 3 – Identificación: tautología, contradicción o contingencia
+### ✏️ [*Ejercicio 4 – Aplicación de leyes proposicionales*](https://drive.google.com/file/d/1C1V_iD_m5MAJSFNO36vsxeTuy8UJ-prI/view?usp=sharing)
 
 ---
 
-**Proposición:** `(p → q) ↔ (¬p ∨ q)`
-
-**Procedimiento paso a paso:**
-
-1. Calcular `p → q`
-2. Calcular `¬p`
-3. Calcular `¬p ∨ q`
-4. Calcular `(p → q) ↔ (¬p ∨ q)`
-
-| p | q | ¬p | p → q | ¬p ∨ q | (p→q) ↔ (¬p∨q) |
-|---|---|----|-------|--------|----------------|
-| V | V |  F |   V   |   V    |       **V**    |
-| V | F |  F |   F   |   F    |       **V**    |
-| F | V |  V |   V   |   V    |       **V**    |
-| F | F |  V |   V   |   V    |       **V**    |
-
-> **Conclusión:** Es una **tautología** ✅ — siempre verdadera. Confirma que `p → q ≡ ¬p ∨ q`.
+### ✏️ [*Ejercicio 5 – Validación de argumento*](https://drive.google.com/file/d/1lhH0gXvanZG9itW3HGEv5BylKeuWoMLM/view?usp=sharing)
 
 ---
-
-### ✏️ Ejercicio 4 – Aplicación de leyes proposicionales
-
----
-
-**Simplificar:** `¬(p ∧ q) ∨ q`
-
-**Procedimiento paso a paso:**
-
-```
-¬(p ∧ q) ∨ q
-≡ (¬p ∨ ¬q) ∨ q        [Ley de De Morgan]
-≡ ¬p ∨ (¬q ∨ q)        [Ley asociativa]
-≡ ¬p ∨ V               [Ley del complemento: ¬q ∨ q = V]
-≡ V                    [Ley de dominación: ¬p ∨ V = V]
-```
-
-> **Conclusión:** La proposición simplificada es **V** (tautología).
-
----
-
-### ✏️ Ejercicio 5 – Validación de argumento
-
----
-
-**Argumento:**
-```
-Premisa 1: Si estudio, entonces apruebo.     (p → q)
-Premisa 2: Estudio.                          (p)
-─────────────────────────────────────────────────────
-Conclusión: Apruebo.                         (q)
-```
-
-**Procedimiento — Modus Ponens:**
-
-| Paso | Expresión | Justificación |
-|------|-----------|---------------|
-| 1 | `p → q` | Premisa 1 |
-| 2 | `p` | Premisa 2 |
-| 3 | `q` | Modus Ponens (1, 2) |
-
-> **Conclusión:** El argumento es **válido** ✅.
 
 ### [*⬅️ Volver a Unidad 1*](../Unidad1.md)
 
