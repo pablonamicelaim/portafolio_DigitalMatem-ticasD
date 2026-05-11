@@ -32,7 +32,7 @@
 
 ---
 
-### 2. [📊 Ejercicios Resueltos](Contenidos/
+### 2. [📊 Ejercicios Resueltos](Contenidos/ejercicios.md)
 
 ---
 
@@ -138,7 +138,7 @@ Conclusión: Apruebo.                         (q)
 
 ---
 
-### 3. 🧠 Ejercicio Aplicado — Caso Real
+### 3. [🧠 Ejercicio Aplicado — Caso Real](Contenidos/ejercicioAplicado.md)
 
 #### 🏥 Contexto: Sistema de acceso a un hospital
 
@@ -187,7 +187,11 @@ Regla 2: ¬i → e
 
 ---
 
-### 4. 🔍 Reflexión Personal
+### 6. [Trabajos Unidad 1](Contenidos/trabajosU1)
+
+---
+
+### 5. 🔍 Reflexión Personal
 
 <details>
 <summary><b>¿Qué fue lo más difícil de entender?</b></summary>
