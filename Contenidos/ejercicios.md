@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" width="280" alt="Logo UNL"/>
+</p>
+
 ### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*](https://drive.google.com/file/d/1dpfZ9lzJJNsS4vrdcvWrtxnDYC_gqRSj/view?usp=sharing)
 
 ---
