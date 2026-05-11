@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://unl.edu.ec/sites/default/files/logogris%20copia.png" width="280" alt="Logo UNL"/>
+</p>
+
 
 ### 🏥 **Contexto:** Sistema de acceso a un hospital
 
