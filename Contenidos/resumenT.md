@@ -22,7 +22,7 @@ Una *proposición* es un enunciado declarativo que puede ser *verdadero (V)* o *
 
 ---
 
-#### 📌 Conectores Lógicos
+### 📌 Conectores Lógicos
 
 | Conector | Símbolo | Nombre | Descripción |
 |----------|---------|--------|-------------|
