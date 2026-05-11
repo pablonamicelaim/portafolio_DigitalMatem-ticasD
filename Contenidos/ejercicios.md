@@ -1,5 +1,5 @@
 
-### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*](file:///D:/Users/DELL/Downloads/Ejercicio1_Traduccion.pdf)
+### ✏️ [*Ejercicio 1 – Traducción de lenguaje natural a simbólico*]
 
 ---
 
