@@ -27,7 +27,7 @@
 
 ---
 
-### 1. 📖 Resumen Teórico
+### 1. [📖 Resumen Teórico](../resumenteT.md)
 
 #### 📌 Definición de Proposición
 
