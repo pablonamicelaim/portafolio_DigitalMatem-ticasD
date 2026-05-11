@@ -9,6 +9,8 @@
 
 ***Paso 1 — Definir proposiciones:***
 
+---
+
 | Símbolo | Proposición |
 |---------|-------------|
 | `c` | El paciente tiene cita |
@@ -20,6 +22,8 @@
 
 ***Paso 2 — Expresión simbólica:***
 
+---
+
 ```
 Regla 1: (c ∧ d) → i
 Regla 2: ¬i → e
@@ -28,6 +32,8 @@ Regla 2: ¬i → e
 ---
 
 ***Paso 3 — Análisis con tabla de verdad (caso Regla 1):***
+
+---
 
 | c | d | c ∧ d | (c ∧ d) → i (cuando i = V) |
 |---|---|-------|----------------------------|
@@ -40,6 +46,8 @@ Regla 2: ¬i → e
 
 ***Paso 4 — Caso práctico:***
 
+---
+
 - El paciente **tiene cita** (c = V) y **presenta su cédula** (d = V)
 - Por Regla 1: `(V ∧ V) → i` → `V → i` → `i = V`
 - Puede **ingresar** ✅
@@ -51,6 +59,8 @@ Regla 2: ¬i → e
 ---
 
 ***Paso 5 — Conclusión:***
+
+---
 
 > La lógica proposicional permite modelar reglas de sistemas reales. En este caso, el acceso al hospital se puede verificar automáticamente evaluando las proposiciones `c`, `d` e `i`. Esto es la base de los sistemas de control de acceso en software.
 
